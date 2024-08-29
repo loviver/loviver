@@ -7,7 +7,9 @@
 - ⚡ Fun fact: ...
 
 
-[![Loviver stats](https://github-readme-stats.vercel.app/api/wakatime?username=loviver)](https://github.com/anuraghazra/github-readme-stats)
+![loviver's Stats](https://github-readme-stats.vercel.app/api?username=loviver&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![loviver's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loviver&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!---
