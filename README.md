@@ -20,11 +20,11 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y 
 - Bootstrap
 
 **Backend:**
+- PHP
 - Laravel
 - Node.js
 - Express.js
 - Python
-- Java
 - C#
 
 **Herramientas & Otros:**
@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y 
 ### 🏆 Proyectos Destacados
 
 He desarrollado sistemas para diversos sectores, incluyendo:
-- 📚 Sistemas de administración educativa
+- 📚 Sistemas de gestiones académicas
 - 📍 Seguimiento de ventas con integración GPS
 - 🏥 Herramientas de comunicación para el sector salud
 - 📋 Facturación electrónica para más de 20 empresas
